@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1740" height="900" viewBox="0 0 1740 900">
+<title>08 Menu</title>
+<rect width="1740" height="900" fill="#e4e9e7"/>
+<g id="screen"><rect width="1440" height="900" fill="#fdf9ea"/>
+<rect x="0" y="0" width="1440" height="64" rx="0" fill="#ffffff"/>
+<line x1="0" y1="64" x2="1440" y2="64" stroke="#e8e0c4" stroke-width="1"/>
+<rect x="26" y="10" width="92" height="44" rx="8" fill="#ffffff" stroke="#e8e0c4" stroke-width="1"/>
+<image href="data:image/jpeg;base64,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" x="30" y="12" width="84" height="41" preserveAspectRatio="xMidYMid meet"/>
+<text x="355.0" y="37" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#5f6280" text-anchor="middle">Make Order</text>
+<text x="472.0" y="37" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#5f6280" text-anchor="middle">View Orders</text>
+<text x="571.0" y="37" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#5f6280" text-anchor="middle">Tables</text>
+<rect x="612" y="10" width="70" height="44" rx="8" fill="#fad645"/>
+<text x="647.0" y="37" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#262846" text-anchor="middle">Menu</text>
+<text x="721.0" y="37" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#5f6280" text-anchor="middle">Staff</text>
+<rect x="1318" y="12" width="82" height="40" rx="8" fill="#ffffff" stroke="#e8e0c4" stroke-width="1"/>
+<text x="1359" y="37" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#262846" text-anchor="middle">Theme</text>
+<rect x="40" y="88" width="440" height="350" rx="12" fill="#ffffff" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="126" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#262846" text-anchor="start">Starters / Appetizers</text>
+<text x="60" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="start" letter-spacing="0.6">ITEM</text>
+<text x="340" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">PRICE</text>
+<text x="456" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">STOCK</text>
+<line x1="60" y1="170" x2="460" y2="170" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="202" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Spring Rolls</text>
+<text x="340" y="202" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 120.00</text>
+<text x="456" y="202" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="218" x2="460" y2="218" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="250" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Soup</text>
+<text x="340" y="250" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 100.00</text>
+<text x="456" y="250" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="266" x2="460" y2="266" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="298" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Garlic Bread</text>
+<text x="340" y="298" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 90.00</text>
+<text x="456" y="298" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">9</text>
+<line x1="60" y1="314" x2="460" y2="314" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="346" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Chicken Wings</text>
+<text x="340" y="346" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 180.00</text>
+<text x="456" y="346" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="362" x2="460" y2="362" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="394" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Nachos</text>
+<text x="340" y="394" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 150.00</text>
+<text x="456" y="394" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="410" x2="460" y2="410" stroke="#e8e0c4" stroke-width="1"/>
+<rect x="496" y="88" width="440" height="350" rx="12" fill="#ffffff" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="126" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#262846" text-anchor="start">Main Courses</text>
+<text x="516" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="start" letter-spacing="0.6">ITEM</text>
+<text x="796" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">PRICE</text>
+<text x="912" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">STOCK</text>
+<line x1="516" y1="170" x2="916" y2="170" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="202" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Grilled Chicken</text>
+<text x="796" y="202" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 250.00</text>
+<text x="912" y="202" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="516" y1="218" x2="916" y2="218" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="250" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Beef Steak</text>
+<text x="796" y="250" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 350.00</text>
+<text x="912" y="250" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="516" y1="266" x2="916" y2="266" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="298" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Pork BBQ</text>
+<text x="796" y="298" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 220.00</text>
+<rect x="866" y="280" width="46" height="22" rx="11" fill="#fde3df"/>
+<text x="889.0" y="295" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#a32121" text-anchor="middle">Out</text>
+<line x1="516" y1="314" x2="916" y2="314" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="346" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Fried Fish</text>
+<text x="796" y="346" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 200.00</text>
+<text x="912" y="346" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="516" y1="362" x2="916" y2="362" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="394" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Chicken Adobo</text>
+<text x="796" y="394" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 230.00</text>
+<text x="912" y="394" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="516" y1="410" x2="916" y2="410" stroke="#e8e0c4" stroke-width="1"/>
+<rect x="952" y="88" width="440" height="350" rx="12" fill="#ffffff" stroke="#e8e0c4" stroke-width="1"/>
+<text x="972" y="126" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#262846" text-anchor="start">Side Dishes</text>
+<text x="972" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="start" letter-spacing="0.6">ITEM</text>
+<text x="1252" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">PRICE</text>
+<text x="1368" y="160" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">STOCK</text>
+<line x1="972" y1="170" x2="1372" y2="170" stroke="#e8e0c4" stroke-width="1"/>
+<text x="972" y="202" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">French Fries</text>
+<text x="1252" y="202" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 100.00</text>
+<text x="1368" y="202" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="972" y1="218" x2="1372" y2="218" stroke="#e8e0c4" stroke-width="1"/>
+<text x="972" y="250" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Rice</text>
+<text x="1252" y="250" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 50.00</text>
+<text x="1368" y="250" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">20</text>
+<line x1="972" y1="266" x2="1372" y2="266" stroke="#e8e0c4" stroke-width="1"/>
+<text x="972" y="298" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Mashed Potatoes</text>
+<text x="1252" y="298" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 90.00</text>
+<text x="1368" y="298" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="972" y1="314" x2="1372" y2="314" stroke="#e8e0c4" stroke-width="1"/>
+<text x="972" y="346" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Coleslaw</text>
+<text x="1252" y="346" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 80.00</text>
+<text x="1368" y="346" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="972" y1="362" x2="1372" y2="362" stroke="#e8e0c4" stroke-width="1"/>
+<text x="972" y="394" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Onion Rings</text>
+<text x="1252" y="394" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 110.00</text>
+<text x="1368" y="394" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="972" y1="410" x2="1372" y2="410" stroke="#e8e0c4" stroke-width="1"/>
+<rect x="40" y="454" width="440" height="350" rx="12" fill="#ffffff" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="492" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#262846" text-anchor="start">Desserts</text>
+<text x="60" y="526" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="start" letter-spacing="0.6">ITEM</text>
+<text x="340" y="526" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">PRICE</text>
+<text x="456" y="526" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">STOCK</text>
+<line x1="60" y1="536" x2="460" y2="536" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="568" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Ice Cream</text>
+<text x="340" y="568" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 80.00</text>
+<text x="456" y="568" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="584" x2="460" y2="584" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="616" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Cake</text>
+<text x="340" y="616" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 120.00</text>
+<text x="456" y="616" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="632" x2="460" y2="632" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="664" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Halo-Halo</text>
+<text x="340" y="664" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 100.00</text>
+<text x="456" y="664" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="680" x2="460" y2="680" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="712" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Leche Flan</text>
+<text x="340" y="712" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 90.00</text>
+<text x="456" y="712" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="728" x2="460" y2="728" stroke="#e8e0c4" stroke-width="1"/>
+<text x="60" y="760" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Brownies</text>
+<text x="340" y="760" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 85.00</text>
+<text x="456" y="760" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">10</text>
+<line x1="60" y1="776" x2="460" y2="776" stroke="#e8e0c4" stroke-width="1"/>
+<rect x="496" y="454" width="440" height="350" rx="12" fill="#ffffff" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="492" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#262846" text-anchor="start">Beverages / Drinks</text>
+<text x="516" y="526" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="start" letter-spacing="0.6">ITEM</text>
+<text x="796" y="526" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">PRICE</text>
+<text x="912" y="526" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#5f6280" text-anchor="end" letter-spacing="0.6">STOCK</text>
+<line x1="516" y1="536" x2="916" y2="536" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="568" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Soft Drink</text>
+<text x="796" y="568" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 60.00</text>
+<text x="912" y="568" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">20</text>
+<line x1="516" y1="584" x2="916" y2="584" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="616" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Coffee</text>
+<text x="796" y="616" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 80.00</text>
+<text x="912" y="616" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">20</text>
+<line x1="516" y1="632" x2="916" y2="632" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="664" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Iced Tea</text>
+<text x="796" y="664" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 70.00</text>
+<text x="912" y="664" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">20</text>
+<line x1="516" y1="680" x2="916" y2="680" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="712" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Lemonade</text>
+<text x="796" y="712" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 65.00</text>
+<text x="912" y="712" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">20</text>
+<line x1="516" y1="728" x2="916" y2="728" stroke="#e8e0c4" stroke-width="1"/>
+<text x="516" y="760" font-family="Inter, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#262846" text-anchor="start">Bottled Water</text>
+<text x="796" y="760" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">PHP 40.00</text>
+<text x="912" y="760" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#262846" text-anchor="end">20</text>
+<line x1="516" y1="776" x2="916" y2="776" stroke="#e8e0c4" stroke-width="1"/>
+<rect x="952" y="454" width="440" height="350" rx="12" fill="#fdebb0"/>
+<text x="972" y="492" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#262846" text-anchor="start">Staff tools</text>
+<text x="972" y="532" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#262846" text-anchor="start">•  Edit price and stock inline</text>
+<text x="972" y="560" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#262846" text-anchor="start">•  Add a menu item</text>
+<text x="972" y="588" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#262846" text-anchor="start">•  Remove a menu item</text>
+<text x="972" y="644" font-family="Inter, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5f6280" text-anchor="start">Sign in under Staff to unlock these.</text>
+<rect x="972" y="670" width="150" height="44" rx="8" fill="#8f2526"/>
+<rect x="972" y="668" width="150" height="44" rx="8" fill="#cf3a3b"/>
+<text x="1047.0" y="694.86" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#ffffff" text-anchor="middle">Staff sign in</text>
+</g>
+<g id="annotations">
+<rect x="1440" y="0" width="300" height="900" fill="#ffffff"/><line x1="1440" y1="0" x2="1440" y2="900" stroke="#e8e0c4"/>
+<text x="1464" y="44" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#262846">08 Menu</text>
+<text x="1464" y="64" font-family="Inter, Arial, sans-serif" font-size="11" fill="#5f6280" letter-spacing="0.6">UX LAWS APPLIED</text>
+<circle cx="40" cy="88" r="11" fill="#2f6fed" stroke="#ffffff" stroke-width="2"/><text x="40" y="92" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<circle cx="1474" cy="92" r="11" fill="#2f6fed"/><text x="1474" y="96" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="1494" y="96" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#262846">Miller's law</text>
+<text x="1494" y="114" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">Five fixed categories (the same five as</text>
+<text x="1494" y="129" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">the order screen), 5 dishes in each.</text>
+<circle cx="488" cy="100" r="11" fill="#2f6fed" stroke="#ffffff" stroke-width="2"/><text x="488" y="104" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<circle cx="1474" cy="154" r="11" fill="#2f6fed"/><text x="1474" y="158" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="1494" y="158" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#262846">Gestalt (similarity + common region)</text>
+<text x="1494" y="176" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">Each category is its own card with</text>
+<text x="1494" y="191" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">identical columns, so the menu reads as</text>
+<text x="1494" y="206" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">5 groups.</text>
+<circle cx="926" cy="294" r="11" fill="#2f6fed" stroke="#ffffff" stroke-width="2"/><text x="926" y="298" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<circle cx="1474" cy="231" r="11" fill="#2f6fed"/><text x="1474" y="235" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="1494" y="235" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#262846">Von Restorff</text>
+<text x="1494" y="253" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">Only the Out pill breaks the pattern, so</text>
+<text x="1494" y="268" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">unavailable dishes are noticed</text>
+<text x="1494" y="283" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">immediately.</text>
+<circle cx="330" cy="118" r="11" fill="#2f6fed" stroke="#ffffff" stroke-width="2"/><text x="330" y="122" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<circle cx="1474" cy="308" r="11" fill="#2f6fed"/><text x="1474" y="312" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="1494" y="312" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#262846">Jakob's law</text>
+<text x="1494" y="330" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">A menu in sections with price on the</text>
+<text x="1494" y="345" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">right matches paper and online menus.</text>
+<circle cx="190" cy="222" r="11" fill="#2f6fed" stroke="#ffffff" stroke-width="2"/><text x="190" y="226" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<circle cx="1474" cy="370" r="11" fill="#2f6fed"/><text x="1474" y="374" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="1494" y="374" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#262846">Proximity</text>
+<text x="1494" y="392" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">Name and price on one line, with a</text>
+<text x="1494" y="407" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">hairline between rows.</text>
+<circle cx="1380" cy="470" r="11" fill="#2f6fed" stroke="#ffffff" stroke-width="2"/><text x="1380" y="474" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<circle cx="1474" cy="432" r="11" fill="#2f6fed"/><text x="1474" y="436" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<text x="1494" y="436" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#262846">Hick's law</text>
+<text x="1494" y="454" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">Read-only for guests. Editing tools sit</text>
+<text x="1494" y="469" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">in one separate card and unlock after</text>
+<text x="1494" y="484" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">staff sign in.</text>
+<circle cx="240" cy="160" r="11" fill="#2f6fed" stroke="#ffffff" stroke-width="2"/><text x="240" y="164" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">7</text>
+<circle cx="1474" cy="509" r="11" fill="#2f6fed"/><text x="1474" y="513" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">7</text>
+<text x="1494" y="513" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#262846">Aesthetic-usability</text>
+<text x="1494" y="531" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">Right-aligned tabular numbers keep</text>
+<text x="1494" y="546" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#5f6280">prices lined up and easy to compare.</text>
+</g></svg>
